@@ -7,3 +7,4 @@ red-node-4
 red-node-5 
 red-node-1 
 red-node-2 
+red-node-3 
